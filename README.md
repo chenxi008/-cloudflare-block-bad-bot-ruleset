@@ -27,3 +27,13 @@ Usage 用法
 
 ![360截图20230924202018539](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/bf442894-1ce1-43f4-b5b4-627793e26e59)
 
+![360截图20230924202340485](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/dfc06d28-d818-44c1-89ad-4886711bb1e6)
+
+![360截图20230924202405420](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/ed724e2c-65b8-4ee8-ae2d-39cbf0ce6d8d)
+
+![360截图20230924202451477](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/f5bff6cd-0978-4726-adc5-2496aee013fe)
+
+![360截图20230924202516860](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/3fd219ec-7e50-421f-b047-0d60c2600d1a)
+
+![360截图20230924202545869](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/b9fea33a-2a32-4e26-b0c1-03f884f3eedf)
+
