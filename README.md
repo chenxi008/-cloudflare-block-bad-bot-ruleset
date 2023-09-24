@@ -25,3 +25,5 @@ Bad Crawler	bad-crawler.rules	Block/Challenge	Match mostly known bad bot, basic 
 匹配绝大部分已知的恶意爬虫
 Usage 用法
 
+![360截图20230924202018539](https://github.com/chenxi008/-cloudflare-block-bad-bot-ruleset/assets/117857008/bf442894-1ce1-43f4-b5b4-627793e26e59)
+
